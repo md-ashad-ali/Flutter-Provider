@@ -14,7 +14,7 @@ class ListProvider extends StatelessWidget {
     print('Full project Build');
     return Scaffold(
       appBar: AppBar(
-        title: Text('List Of  thisr Provider'),
+        title: Text('List Provider'),
         backgroundColor: Colors.blue,
       ),
       floatingActionButton: FloatingActionButton(
